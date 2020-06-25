@@ -18,3 +18,7 @@ However, there are a couple of helpful modules that could handle generating or p
 Remembering the fact that CSV files are just plain text files, we could always limit ourselves to using only the native fs module, but to make our life easier, we'll use another common npm module, csv-writer.
 
 First goes the installation: npm i -s csv-writer
+
+# Testing
+
+Run with command: node index.js
